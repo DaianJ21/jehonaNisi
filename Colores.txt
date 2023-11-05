@@ -1,0 +1,11 @@
+menu color:#2D2824
+aside color:#075667
+footer color:#000000
+boton color:#BEBEBE
+hover boton:#FFFFFF
+
+tipografias:
+
+menu: Kino MT
+text: open sans
+event-text: gill sans display

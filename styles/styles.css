@@ -1,0 +1,26 @@
+:root {
+    --menu-color:#2D2824;
+    --aside-color:#075667;
+    --footer-color:#000000;
+    --boton-color:#BEBEBE;
+    --hover-boton:#FFFFFF;
+    /*Fonts variables*/
+    --menu-text: kino;
+    --event-text: Grill-sans;
+}
+
+@font-face {
+    font-family: Kino;
+    src: url(../fonts/KinoMT.ttf);
+}
+
+@font-face {
+    font-family: Grill-sans;
+    src: url(../fonts/Gill-Sans.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
